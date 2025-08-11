@@ -42,7 +42,10 @@
 ## 💰 Support My Projects
 
 ✨ If you like my projects, feel free to support me!
-<!-- 可添加爱发电等链接 -->
+
+<a href="https://afdian.com/a/XiaooHeTao">
+  <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="支持创作者" style="max-width:100%;height:auto;">
+</a>
 
 ![Visit Count](https://moe-counter.glitch.me/get/@baguotao233:gh-readme?theme=rule34)
 
