@@ -43,7 +43,7 @@
 
 ✨ If you like my projects, feel free to support me!
 
-<a href="https://afdian.com/a/XiaooHeTao">
+<a href="https://afdian.com/a/xFurina">
   <img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="支持创作者" style="max-width:100%;height:auto;">
 </a>
 
