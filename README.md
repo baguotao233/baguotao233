@@ -34,11 +34,11 @@
 ### Phone
 
 ![vivo Z6](https://img.shields.io/badge/vivo%20Z6-0057e7?style=flat-square&logo=vivo&logoColor=ffffff)
-![Redmi K90](https://img.shields.io/badge/Redmi%20K90-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi K90](https://img.shields.io/badge/Redmi%20K90-e60012?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 ### Camera / Action
 
-![DJI Action 4](https://img.shields.io/badge/DJI%20Action%204-00cd80?style=flat-square&logo=dji&logoColor=ffffff)
+![DJI Action 4](https://img.shields.io/badge/DJI%20Action%204-00cd80?style=flat-square&logo=dji&logoColor=000000)
 
 ### Wearable
 
