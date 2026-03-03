@@ -32,16 +32,16 @@
 ## 📱 Devices in Use
 
 ### Phone
-# Redmi K90：logo 显示 redmi + 红米官方红底白字
+
 ![Redmi K90](https://img.shields.io/badge/Redmi%20K90-e60012?style=flat-square&logo=redmi&logoColor=ffffff)
 ![vivo Z6](https://img.shields.io/badge/vivo%20Z6-0057e7?style=flat-square&logo=vivo&logoColor=ffffff)
 
 ### Camera / Action
-# 大疆 Action 4：白底 logo + 黑底（#000000 纯黑）
+
 ![DJI Action 4](https://img.shields.io/badge/DJI%20Action%204-000000?style=flat-square&logo=dji&logoColor=ffffff)
 
 ### Wearable
-# Redmi Watch 5：同步 K90 的 redmi logo + 红米红
+
 ![Redmi Watch 5](https://img.shields.io/badge/Redmi%20Watch%205-e60012?style=flat-square&logo=redmi&logoColor=ffffff)
 ## 💰 Support My Projects
 
