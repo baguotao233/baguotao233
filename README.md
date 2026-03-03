@@ -27,18 +27,22 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Android 10](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 16](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
 ### Phone
 
-![vivo Z6](https://img.shields.io/badge/vivo%20Z6-0057e7?style=flat-square&logo=vivo&logoColor=ffffff) <!-- vivo品牌色参考 -->
+![vivo Z6](https://img.shields.io/badge/vivo%20Z6-0057e7?style=flat-square&logo=vivo&logoColor=ffffff)
+![Redmi K90](https://img.shields.io/badge/Redmi%20K90-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
+### Camera / Action
+
+![DJI Action 4](https://img.shields.io/badge/DJI%20Action%204-00cd80?style=flat-square&logo=dji&logoColor=ffffff)
 
 ### Wearable
 
-![Redmi Watch 5](https://img.shields.io/badge/Redmi%20Watch%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff) <!-- Redmi沿用小米橙色系 -->
-
+![Redmi Watch 5](https://img.shields.io/badge/Redmi%20Watch%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ## 💰 Support My Projects
 
 ✨ If you like my projects, feel free to support me!
