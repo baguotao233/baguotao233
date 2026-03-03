@@ -27,7 +27,7 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Android 16](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 16](https://img.shields.io/badge/Android%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
 ## 📱 Devices in Use
 
